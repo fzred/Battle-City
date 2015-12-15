@@ -8,3 +8,5 @@ gulp buildts  #编译
 gulp watch    #自动编译
 http-server
 ```
+
+![](demoimg/20151215164203.png)
